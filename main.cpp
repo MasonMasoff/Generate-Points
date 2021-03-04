@@ -57,7 +57,7 @@ int main () {
         myfile.close();
     }
     
-    cout << "\nFile created to path: \t /Users/masongarcia/Library/Developer/Xcode/DerivedData/GeneratePoints-bjebfjrtwnkwlffwnregxcexbdsd/Build/Products/Debug";
+    cout << "\nFile can be found in same folder as executable";
     cout << "\n\t\n";
     return 0;
 }
